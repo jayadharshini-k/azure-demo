@@ -2,3 +2,5 @@ This is some file 1
 This is some modification
 
 new-branch-1 modification
+
+new-change-branch modify
